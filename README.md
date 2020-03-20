@@ -9,3 +9,6 @@ Usage:
 3. In the image, firstly click the left corner and then the right corner of ROI for recording x1_1,y1_1,x2_1,y2_1. You can click multiple ROIs.
 4. Close the current image once finished, and then the second image shows repeat step 3.
 
+## rearrange.py
+The `rearrange.py` converts the location format to `center_x, center_y, width, height`.
+
