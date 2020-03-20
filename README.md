@@ -12,3 +12,5 @@ Usage:
 ## rearrange.py
 The `rearrange.py` converts the location format to `center_x, center_y, width, height`.
 
+## label.txt
+`file_path, class_label, center_x1, center_y1, width1, height1, center_x2, center_y2, width2, height2,...`.
