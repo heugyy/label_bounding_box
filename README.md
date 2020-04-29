@@ -1,7 +1,7 @@
 # label_bounding_box
 
 ## main.py
-The `main.py` records the location (left corner point(x1,y1) and right corner (x2,y2)) and save in file `results.txt`. In each row of the file, the document arranges as `file_path, class_label, x1_1,y1_1,x2_1,y2_1,  x1_2,,y1_2,x2_2,y2_2,...`.
+The `main.py` records the location (left corner point(x1,y1) and right corner (x2,y2)) and save in file `results.txt`. In each row of the file, the document arranges as `file_path, class_label, x1_1,y1_1,x2_1,y2_1, class_label, x1_2,,y1_2,x2_2,y2_2,...`.
 
 Usage:
 1. arragne your data into the folders of each according classes, the folder names indicate the class labels.
